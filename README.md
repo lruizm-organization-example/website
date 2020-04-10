@@ -2,8 +2,4 @@
 
 This is the readme file to my really awesome website
 
-Editing on example branch
-
-Now updating on update-readme-file branch
-
-more tweaks, remotely and locally
+Updating readme file on GitHub before I do a rebase, whatever that means
