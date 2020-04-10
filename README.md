@@ -6,4 +6,4 @@ Editing on example branch
 
 Now updating on update-readme-file branch
 
-more tweaks
+more tweaks, remotely and locally
