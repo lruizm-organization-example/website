@@ -6,6 +6,4 @@ Updating readme file on GitHub before I do a rebase, whatever that means
 
 ## Repository Purpose
 
-This will be a change that conflicts with whatever is on the 
-remote side.
-This was edited locally.
+This file is just a readme file
